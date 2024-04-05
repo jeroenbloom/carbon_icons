@@ -1,5 +1,5 @@
 module.exports = {
-  inputDir: 'svg/32/', // (required)
+  inputDir: 'build/', // (required)
   outputDir: 'generated/', // (required)
   name: 'CarbonFonts',
   normalize: 'false',

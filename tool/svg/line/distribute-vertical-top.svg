@@ -1,0 +1,6 @@
+<svg width="32" height="32" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M18 22.5H6A1.502 1.502 0 0 1 4.5 21v-3A1.502 1.502 0 0 1 6 16.5h12a1.502 1.502 0 0 1 1.5 1.5v3a1.502 1.502 0 0 1-1.5 1.5ZM6 18v3h12v-3H6Z"></path>
+<path d="M22.5 13.5h-21V15h21v-1.5Z"></path>
+<path d="M15 10.5H9A1.502 1.502 0 0 1 7.5 9V6A1.502 1.502 0 0 1 9 4.5h6A1.502 1.502 0 0 1 16.5 6v3a1.502 1.502 0 0 1-1.5 1.5ZM9 6v3h6V6H9Z"></path>
+<path d="M22.5 1.5h-21V3h21V1.5Z"></path>
+</svg>

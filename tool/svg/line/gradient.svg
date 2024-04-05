@@ -1,0 +1,6 @@
+<svg width="32" height="32" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.5 3h-15A1.502 1.502 0 0 0 3 4.5v15A1.502 1.502 0 0 0 4.5 21h15a1.502 1.502 0 0 0 1.5-1.5v-15A1.502 1.502 0 0 0 19.5 3Zm-3 16.5v-3h-3v3h-3v-3h-3v-3h3v-3h-3v-3h3v-3h3v3h3v-3h3v15h-3Z"></path>
+<path d="M13.5 7.5h-3v3h3v-3Z"></path>
+<path d="M13.5 13.5h-3v3h3v-3Z"></path>
+<path d="M16.5 10.5h-3v3h3v-3Z"></path>
+</svg>

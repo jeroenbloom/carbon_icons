@@ -1,0 +1,33 @@
+<svg width="32" height="32" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.25 7.5h-1.5V9h1.5V7.5Z"></path>
+<path d="M12.75 9h-1.5v1.5h1.5V9Z"></path>
+<path d="M14.25 10.5h-1.5V12h1.5v-1.5Z"></path>
+<path d="M14.25 7.5h-1.5V9h1.5V7.5Z"></path>
+<path d="M11.25 10.5h-1.5V12h1.5v-1.5Z"></path>
+<path d="M3.75 19.5h-1.5V21h1.5v-1.5Z"></path>
+<path d="M5.25 21h-1.5v1.5h1.5V21Z"></path>
+<path d="M6.75 22.5h-1.5V24h1.5v-1.5Z"></path>
+<path d="M6.75 19.5h-1.5V21h1.5v-1.5Z"></path>
+<path d="M3.75 22.5h-1.5V24h1.5v-1.5Z"></path>
+<path d="M18.75 19.5h-1.5V21h1.5v-1.5Z"></path>
+<path d="M20.25 21h-1.5v1.5h1.5V21Z"></path>
+<path d="M21.75 22.5h-1.5V24h1.5v-1.5Z"></path>
+<path d="M21.75 19.5h-1.5V21h1.5v-1.5Z"></path>
+<path d="M18.75 22.5h-1.5V24h1.5v-1.5Z"></path>
+<path d="M7.5 13.5H6V15h1.5v-1.5Z"></path>
+<path d="M9 15H7.5v1.5H9V15Z"></path>
+<path d="M10.5 16.5H9V18h1.5v-1.5Z"></path>
+<path d="M10.5 13.5H9V15h1.5v-1.5Z"></path>
+<path d="M7.5 16.5H6V18h1.5v-1.5Z"></path>
+<path d="M15 13.5h-1.5V15H15v-1.5Z"></path>
+<path d="M16.5 15H15v1.5h1.5V15Z"></path>
+<path d="M18 16.5h-1.5V18H18v-1.5Z"></path>
+<path d="M18 13.5h-1.5V15H18v-1.5Z"></path>
+<path d="M15 16.5h-1.5V18H15v-1.5Z"></path>
+<path d="M11.25 19.5h-1.5V21h1.5v-1.5Z"></path>
+<path d="M12.75 21h-1.5v1.5h1.5V21Z"></path>
+<path d="M14.25 22.5h-1.5V24h1.5v-1.5Z"></path>
+<path d="M14.25 19.5h-1.5V21h1.5v-1.5Z"></path>
+<path d="M11.25 22.5h-1.5V24h1.5v-1.5Z"></path>
+<path d="M18.6 6.852a6.746 6.746 0 0 0-13.2 0 4.872 4.872 0 0 0-.9 9.272v-1.695a3.371 3.371 0 0 1 1.608-6.165l.612-.048.074-.609a5.245 5.245 0 0 1 10.413 0l.074.61.611.047A3.371 3.371 0 0 1 19.5 14.43v1.695a4.871 4.871 0 0 0-.9-9.272Z"></path>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="32" height="32" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M4.5 9H3V3h6v1.5H4.5V9Z"></path>
+<path d="M21 9h-1.5V4.5H15V3h6v6Z"></path>
+<path d="M9 21H3v-6h1.5v4.5H9V21Z"></path>
+<path d="M21 21h-6v-1.5h4.5V15H21v6Z"></path>
+<path d="M12.75 7.5h-1.5v3h1.5v-3Z"></path>
+<path d="M10.5 11.25h-3v1.5h3v-1.5Z"></path>
+<path d="M16.5 11.25h-3v1.5h3v-1.5Z"></path>
+<path d="M12.75 13.5h-1.5v3h1.5v-3Z"></path>
+</svg>

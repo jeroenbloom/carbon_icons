@@ -1,6 +1,9 @@
 # carbon_icons
 
-A Flutter package which includes 1584 Carbon icons from the [Carbon Design System](https://github.com/carbon-design-system/carbon).
+A Flutter package which includes 1898 Carbon icons from the [Carbon Design System](https://github.com/carbon-design-system/carbon).
+
+> [!NOTE]  
+> Last updated: **2024-04-05**
 
 [Icon Catalog](https://www.carbondesignsystem.com/guidelines/icons/library/)
 
@@ -9,11 +12,13 @@ A Flutter package which includes 1584 Carbon icons from the [Carbon Design Syste
 </p>
 
 ## Install
+
 ```dart
-carbon_icons: ^0.0.1
+carbon_icons: ^1.0.0
 ```
 
 ## Simple usage example
+
 ```dart
 import 'package:carbon_icons/carbon_icons.dart';
 
@@ -25,8 +30,11 @@ Icon(
   size: 64.0,
 ),
 ```
-## Font generation
-The detailed description of the font generation is in the `tool` folder.
+
+## Updating and generating icons
+
+See the [`README.md` in the tool/ folder](./tool/README.md).
 
 ## License
+
 Carbon Icons from the Carbon Design System by IBM are licensed under [Apache License 2.0](https://github.com/carbon-design-system/carbon/blob/main/LICENSE).

@@ -1,0 +1,13 @@
+<svg width="32" height="32" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M13.5 10.5H12V12h1.5v-1.5Z"></path>
+<path d="M16.5 10.5H15V12h1.5v-1.5Z"></path>
+<path d="M19.5 10.5H18V12h1.5v-1.5Z"></path>
+<path d="M13.5 13.5H12V15h1.5v-1.5Z"></path>
+<path d="M16.5 13.5H15V15h1.5v-1.5Z"></path>
+<path d="M19.5 13.5H18V15h1.5v-1.5Z"></path>
+<path d="M13.5 16.5H12V18h1.5v-1.5Z"></path>
+<path d="M16.5 16.5H15V18h1.5v-1.5Z"></path>
+<path d="M19.5 16.5H18V18h1.5v-1.5Z"></path>
+<path d="M19.5 7.5H12V9h7.5V7.5Z"></path>
+<path d="M21 4.5H10.5v-.75A1.502 1.502 0 0 0 9 2.25H6a1.502 1.502 0 0 0-1.5 1.5v.75H3A1.502 1.502 0 0 0 1.5 6v13.5A1.502 1.502 0 0 0 3 21h18a1.502 1.502 0 0 0 1.5-1.5V6A1.502 1.502 0 0 0 21 4.5ZM6 3.75h3V16.5H6V3.75ZM21 19.5H3V6h1.5v10.5A1.502 1.502 0 0 0 6 18h3a1.502 1.502 0 0 0 1.5-1.5V6H21v13.5Z"></path>
+</svg>
