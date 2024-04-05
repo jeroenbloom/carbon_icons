@@ -4,7 +4,7 @@
 > Potentially BREAKING release
 
 - feat!: update icons to now include 1898 Carbon icons
-- feat: add SVG cleaning step to generator script
+- fix: fix rendering issues when using icons in Flutter
 - feat: consolidate generator script into one Dart file
 - docs: update documentation
 
