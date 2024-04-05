@@ -51,8 +51,8 @@ Future<void> main() async {
     installationCommand: 'npm install -g fantasticon',
   );
   _ensureInstalled(
-    command: 'svg-cleaner',
-    installationCommand: 'npm install -g svg-cleaner',
+    command: 'svgo',
+    installationCommand: 'npm install -g svgo',
   );
 
   if (_buildDir.existsSync()) {
@@ -65,7 +65,7 @@ Future<void> main() async {
   _copySvgs();
 
   print('Cleaning SVGs...');
-  await _cleanSvgs();
+  _runCommand('svgo -f ${_buildDir.path} -o ${_buildDir.path}');
 
   print('Generating font...');
   await _runCommand('fantasticon --config fantasticon_config.js');
@@ -150,18 +150,6 @@ void _copySvgs() {
       svgFile.copySync(newSvgPath);
     }
   }
-}
-
-/// Cleans all SVG files in the `build/` directory using the `svg-cleaner` tool.
-Future<void> _cleanSvgs() async {
-  final svgFiles = _buildDir.listSync().whereType<File>().where((file) {
-    final ext = path.extension(file.path);
-    return ext == '.svg';
-  }).toList();
-
-  await Future.wait([
-    for (final file in svgFiles) _runCommand('svg-cleaner ${file.path}'),
-  ]);
 }
 
 String _getFontData(String iconName, int codePoint) {
