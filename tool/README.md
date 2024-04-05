@@ -6,7 +6,6 @@ The `generate.dart` script will convert downloaded SVGs into a TTF font, then ge
 
 - Dart
 - `fantasticon` (install using `npm install -g fantasticon`)
-- `svgo` (install using `npm install -g svgo`)
 
 #### Generating
 

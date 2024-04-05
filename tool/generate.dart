@@ -50,10 +50,6 @@ Future<void> main() async {
     command: 'fantasticon',
     installationCommand: 'npm install -g fantasticon',
   );
-  _ensureInstalled(
-    command: 'svgo',
-    installationCommand: 'npm install -g svgo',
-  );
 
   if (_buildDir.existsSync()) {
     print('Cleaning up previous build directory...');
@@ -63,9 +59,6 @@ Future<void> main() async {
 
   print('Copying SVGs...');
   _copySvgs();
-
-  print('Cleaning SVGs...');
-  _runCommand('svgo -f ${_buildDir.path} -o ${_buildDir.path}');
 
   print('Generating font...');
   await _runCommand('fantasticon --config fantasticon_config.js');
